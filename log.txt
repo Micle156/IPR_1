@@ -1,0 +1,18 @@
+*   ed7aa25 conff
+|\  
+| * 74ba751 sfsd
+* | 41a789e Merge branch 'feature-b'
+|\| 
+| * d526ef8 conf
+* | b8d8d91 q
+|\| 
+| * 6bbe457 feature-b: изменение строки 3 для конфликта
+* | 38f604c main
+* | 0230aad main конфликт
+|/  
+* f18c84d создание 3 строки
+* c55c22b добавление 4 строки
+* 895bcee добавление 3 строки
+* 6aadb44 com
+* 20bc4af commit 2
+* e765777 install commit
